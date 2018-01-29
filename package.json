@@ -1,0 +1,27 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameerrai28/sampleskills.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Skills"
+  ],
+  "author": "Sameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameerrai28/sampleskills/issues"
+  },
+  "homepage": "https://github.com/sameerrai28/sampleskills#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.0"
+  },
+  "devDependencies": {}
+}
