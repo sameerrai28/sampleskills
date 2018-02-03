@@ -27,17 +27,4 @@ app.intent('sayHello',
   }
 );
 
-app.intent('sayTime',
-  {
- "utterances":[ 
-  "say Time",
-  "Time alexa",
-  "What time",
-  "Hey alexa what is time"]
-  },
-  function(request,response) {
-    response.say("Right now it is 12:30 PM");
-  }
-);
-
 module.exports = app;
