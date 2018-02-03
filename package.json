@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/sameerrai28/sampleskills#readme",
   "dependencies": {
-    "alexa-app": "^4.2.0"
+    "alexa-app": "^4.2.0",
+    "mqtt": "^2.15.1",
+    "promise": "^8.0.1"
   },
   "devDependencies": {}
 }
